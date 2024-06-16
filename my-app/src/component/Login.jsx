@@ -33,8 +33,7 @@ const Login = () => {
                     <div className="w-1/2">
                         <form
                             onSubmit={handleSubmit}
-                            className="flex flex-col gap-10 text-black"
-                        >
+                            className="flex flex-col gap-10 text-black">
                             <div className="flex justify-center items-center">
                                 {/* <img
                                     src="./logo.png"
